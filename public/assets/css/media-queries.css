@@ -1,0 +1,188 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+	.form-bottom form .form-links { width: 190px; }
+	
+	.more-features-box-text { margin-top: 30px; padding-left: 0; }
+	.more-features-box-text:first-child { margin-top: 0; }
+	
+	.cx-section-box-text-left { padding-right: 0; }
+	.cx-section-box-text-left:first-child { margin-top: 0; }
+	
+	.how-it-works-box-icon .how-it-works-step { left: 75px; }
+	
+	.testimonial-list .testimonial-image { width: 20%; }
+	.testimonial-list .testimonial-text { width: 80%; }
+	
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+	.section-description p { padding: 0; }
+	.section-description .description-2 { padding: 0; !important}
+	
+	.form-bottom form .form-links { display: block; width: auto; margin-top: 15px; }
+	
+	.more-features-box { float: none; width: auto; }
+	.more-features-box-text { margin-top: 30px; padding-left: 0; text-align: center; }
+	.more-features-box-text:first-child { margin-top: 50px; }
+	.more-features-box-text-icon { float: none; display: inline-block; }
+	.more-features-box-text h3 { float: none; width: auto; margin-top: 20px; }
+	.more-features-box-text-description { float: none; width: auto; }
+	
+	.cx-section-box { float: none; width: auto; }
+	.cx-section-box-text { margin-top: 30px; padding-left: 0; text-align: center; }
+	.cx-section-box-text-left { padding-right: 0; }
+	
+	.how-it-works-box-icon .how-it-works-step { left: 40px; }
+	
+	.testimonial-list .testimonial-image { width: 25%; }
+	.testimonial-list .testimonial-text { width: 75%; }
+
+}
+
+@media (max-width: 767px) {
+	
+	.navbar { padding-top: 0; }
+	.navbar.navbar-no-bg { background: #333; background: transparent; margin: 0; top: 15px; left: 0; right: 0; padding-right: 0;}
+	.back-link { left: 10px; top: 70px; } 
+	.navbar-brand { margin-left: 15px; }
+	.navbar-collapse { border: 0; }
+	.navbar-inverse ul.navbar-nav li a:hover, .navbar-inverse ul.navbar-nav li a:focus { padding-bottom: 10px; border-bottom: 1px solid transparent; }
+	
+	.navbar-inverse ul.navbar-nav li a.btn-link-2 { margin-left: 15px; margin-right: 15px; }
+	.navbar-inverse ul.navbar-nav li a.btn-link-2:hover, 
+	.navbar-inverse ul.navbar-nav li a.btn-link-2:focus, 
+	.navbar-inverse ul.navbar-nav li a.btn-link-2:active, 
+	.navbar-inverse ul.navbar-nav li a.btn-link-2:active:focus { outline: 0; opacity: 0.6; background: rgba(0, 0, 0, 0.3); border: 1px solid #fff; color: #fff; }
+	
+	.inner-bg { padding: 60px 0 110px 0; }
+	.top-content .text { padding-top: 0; padding-bottom: 60px; }
+	.top-content .top-big-link { margin-top: 25px; }
+	.top-content .top-big-link a.btn { margin-top: 10px; }
+	.form-bottom form .form-links { display: block; width: auto; margin-top: 15px; }
+	.globle-bg {
+		background: url(../img/backgrounds/mobile/1.png) no-repeat center center fixed;
+		background-size: auto auto;
+		background-size: cover;
+		height: 100%;
+		overflow: hidden;
+		z-index: -2;
+	}
+	.fullscreen-img-wrap, 
+	.header-planets-overlay {
+		display: none;
+	}
+	.technology-container { 
+		background: url(../img/backgrounds/mobile/0.png) no-repeat center -250px !important;
+		padding-top: 75px;
+	}
+	.technology-container .description{
+		width: auto;
+		padding: 0 15px;
+	}
+	.i-header .header-content {
+		top: 75vh;
+	}
+	.technology-container .btn-wrapper { text-align: center }
+	.section-description p { padding: 0 15px !important; text-align: left;}
+	.section-description .description-2 { padding: 0; !important}
+	.international-container .description { padding: 0; !important}
+    .more-features-box-text { margin-top: 30px; padding-left: 0; text-align: center; }
+	.more-features-box-text:first-child { margin-top: 50px; }	
+	.more-features-box-text-icon { float: none; display: inline-block; }
+	.more-features-box-text h3 { float: none; width: auto; margin-top: 20px; }
+	.more-features-box-text-description { float: none; width: auto; }
+	.technology-container h2.title { text-align: center; margin-top: 10px; }
+	.technology-container h3.title { text-align: center; margin-top: 10px; }
+	.summary { padding: 60px 24px; margin: 10px;}
+	.summary .description { text-align: left; }
+	.summary-container { padding-bottom: 0 }
+	.introducing-container {
+		background: url(../img/backgrounds/mobile/4.png) no-repeat center -250px !important;
+		padding-top: 30px;
+		padding-bottom: 300px;
+	}
+	.introduction-container {
+		padding-top: 30px;
+	}
+
+	.introduction-container .concept-mobile-img {
+		display: block !important;
+	}
+	.introduction-container .concept-img {
+		display: none;
+	}
+	.international-container h2.title { margin-top: 5px; }
+	.international-container, .currency-container {
+		padding: 50px 0 65px 0;
+	}
+	.section-quote { padding: 30px 24px; margin: -210px 15px 0 15px;}
+	.section-comma .section-box p {
+		letter-spacing: 0.5px;
+		line-height: 30px;
+	}
+	.ethereum-container .ethereum-logo { margin-left: -25% }
+	.ethereum-container .inner-bg { padding: 60px 0 25px 0 }
+	.cx-section-box-text { margin-top: 30px; padding-left: 0; text-align: center; }
+	.cx-section-box-text-left { padding-right: 0; }
+	.ethereum-container .eth-00 { margin-bottom: 0; }
+	.ethereum-container .eth-01 { margin-top: 0; }
+	.how-it-works-box-icon .how-it-works-step { left: 20px; }
+	.wallet-container.wallet-log {  transform: scale(1.0); } 
+	.ethereum-container h2, .ethereum-container hr,
+	.wallet-container h2, .wallet-container .divider-1 { text-align: center !important; padding: 0 15px;}
+	.ethereum-container p,
+	.wallet-container p { text-align: left !important; padding: 0 15px;}
+    .pricing-box { padding-bottom: 50px; }
+    .pricing-box:last-child { padding-bottom: 0; }
+	
+	.testimonial-list .testimonial-image { float: none; width: auto; text-align: center; }
+	.testimonial-list .testimonial-text { float: none; width: auto; margin-top: 30px; text-align: center; }
+	.testimonial-list .nav-tabs { margin-top: 20px; text-align: center; }
+	.testimonial-list .testimonial-image .testimonial-icon { display: none; }
+	.navbar { top: 0 }
+	a.back-link { top: 55px; }
+	.currency-container {
+		background: url(../img/backgrounds/mobile/8.png) no-repeat center 10px !important;
+	}
+	.currency-container h2 {
+		margin-top: 360px;
+	}
+
+	/**/
+	a.anchor-link, #fp-nav.left{
+		display: none;
+	}
+}
+
+@media (max-width: 415px) {
+	
+	h1, h2 { font-size: 32px; }
+	.introducing-container {
+		background: url(../img/backgrounds/mobile/4.png) no-repeat 0px 1px !important;
+		padding-top: 335px;
+		padding-bottom: 300px;
+	}
+	/* Time line toggle */
+	.mobile-timeline {
+		display: block;
+	}
+	.desktop-timeline {
+
+		display: none;
+	}
+
+}
+
+
+/* Retina-ize images/icons */
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	
+}
