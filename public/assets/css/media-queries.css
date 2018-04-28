@@ -1,43 +1,16 @@
 @media (min-width: 992px) and (max-width: 1199px) {
-	
 	.form-bottom form .form-links { width: 190px; }
-	
-	.more-features-box-text { margin-top: 30px; padding-left: 0; }
-	.more-features-box-text:first-child { margin-top: 0; }
-	
 	.cx-section-box-text-left { padding-right: 0; }
 	.cx-section-box-text-left:first-child { margin-top: 0; }
-	
-	.how-it-works-box-icon .how-it-works-step { left: 75px; }
-	
-	.testimonial-list .testimonial-image { width: 20%; }
-	.testimonial-list .testimonial-text { width: 80%; }
-	
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-
 	.section-description p { padding: 0; }
 	.section-description .description-2 { padding: 0; !important}
-	
 	.form-bottom form .form-links { display: block; width: auto; margin-top: 15px; }
-	
-	.more-features-box { float: none; width: auto; }
-	.more-features-box-text { margin-top: 30px; padding-left: 0; text-align: center; }
-	.more-features-box-text:first-child { margin-top: 50px; }
-	.more-features-box-text-icon { float: none; display: inline-block; }
-	.more-features-box-text h3 { float: none; width: auto; margin-top: 20px; }
-	.more-features-box-text-description { float: none; width: auto; }
-	
 	.cx-section-box { float: none; width: auto; }
 	.cx-section-box-text { margin-top: 30px; padding-left: 0; text-align: center; }
 	.cx-section-box-text-left { padding-right: 0; }
-	
-	.how-it-works-box-icon .how-it-works-step { left: 40px; }
-	
-	.testimonial-list .testimonial-image { width: 25%; }
-	.testimonial-list .testimonial-text { width: 75%; }
-
 }
 
 @media (max-width: 767px) {
@@ -133,13 +106,6 @@
 	.wallet-container h2, .wallet-container .divider-1 { text-align: center !important; padding: 0 15px;}
 	.ethereum-container p,
 	.wallet-container p { text-align: left !important; padding: 0 15px;}
-    .pricing-box { padding-bottom: 50px; }
-    .pricing-box:last-child { padding-bottom: 0; }
-	
-	.testimonial-list .testimonial-image { float: none; width: auto; text-align: center; }
-	.testimonial-list .testimonial-text { float: none; width: auto; margin-top: 30px; text-align: center; }
-	.testimonial-list .nav-tabs { margin-top: 20px; text-align: center; }
-	.testimonial-list .testimonial-image .testimonial-icon { display: none; }
 	.navbar { top: 0 }
 	a.back-link { top: 55px; }
 	.currency-container {
