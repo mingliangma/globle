@@ -19,9 +19,10 @@ jQuery(document).ready(function() {
 	});	
 	
 	// Background fix
-	if($(document).width() <= 767){
-		$('.globle-bg').backstretch("/assets/img/backgrounds/mobile/1.png");
-	}
+	// if($(document).width() <= 767){
+	// 	$('.globle-bg').backstretch("/assets/img/backgrounds/mobile/1.png");
+	// 	console.log('background fix---')
+	// }
     
 	// Wow
 	new WOW().init();

@@ -683,7 +683,7 @@ footer {
 .header-planets-overlay {
 	height: 163vh;
 	position: absolute;
-	top: -38vh;
+	top: -35vh;
 	left: 0;
 	right: 0;
 	bottom: 0;
@@ -697,7 +697,7 @@ footer {
 	position: absolute;
 	left: 0;
 	right: 0;
-	top: 82vh;
+	bottom: 10vh;
 	z-index: 1;
 }
 .i-header .header-content img {

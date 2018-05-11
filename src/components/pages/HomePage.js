@@ -246,10 +246,10 @@ class HomePage extends React.Component {
 							<div className="col-sm-6 wow fadeInLeft">
 								<div className="more-features-box-text">
 									<h3 className="title think">
-										Think you can help us ?
+										Think you can help us?
 									</h3>
 									<p className="mx-40">
-										Submit your application to be part of the founding team!
+										Submit your application to be part of the team!
 									</p>
 									<a className="btn btn-outline" href="https://docs.google.com/forms/d/e/1FAIpQLSenE4q7f3B2mch1SBaK1uvq-G1ch7YyC6adXV42YS6fseAIiA/viewform?entry.2005620554&entry.1045781291&entry.1065046570&entry.1166974658&entry.839337160">Apply to help</a>
 								</div>
